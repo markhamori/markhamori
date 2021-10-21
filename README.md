@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on multiple projects to sharp my knowledges.
 - 🌱 I’m currently learning **backend** and **frontend** development. (MERN STACK)
 
-> Very enthusiastic self learner from Hungary 😄
+> Very enthusiastic self-learner from Hungary 😄
 
 <!--
 **markhamori/markhamori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
