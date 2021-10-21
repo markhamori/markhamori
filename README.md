@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome on my github page. ✨👋
+
+🔭 I’m currently working multiple projects to sharp my knowledges.
+🌱 I’m currently learning Backend and Frontend development.
 
 <!--
 **markhamori/markhamori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
