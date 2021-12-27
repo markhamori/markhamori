@@ -1,7 +1,7 @@
 ### Welcome! 👋
 
-- 🔭 I’m currently working on multiple projects to sharp my knowledges.
-- 🌱 I’m currently learning **backend** and **frontend** development. (MERN STACK)
+- 🔭 Working on multiple projects to sharp my knowledges.
+- 🌱 Learning **backend** and **frontend** development. (MERN STACK)
 
 > Very enthusiastic self-learner from Hungary 😄
 
