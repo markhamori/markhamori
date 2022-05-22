@@ -1,7 +1,7 @@
 ### Welcome! 👋
 
-- 🔭 Working on multiple projects to sharp my knowledges.
-- 🌱 Learning **backend** and **frontend** development.
+- 🔭 Working on several projects to sharp my knowledges.
+- 🌱 Learning **frontend**, **backend** development, **UI/UX design** and **computer science**.
 
 > Very enthusiastic self-learner from Hungary.
 
