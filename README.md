@@ -5,6 +5,7 @@
 
 > Very enthusiastic self-learner from Hungary.
 
+<a href="https://app.daily.dev/markhamori"><img src="https://api.daily.dev/devcards/2b64d386629e44c68e56809a927fbce0.png?r=b78" width="400" alt="Mark Hamori's Dev Card"/></a>
 <!--
 **markhamori/markhamori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
