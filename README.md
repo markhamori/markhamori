@@ -4,8 +4,7 @@
 
 ## I am...
 - a very **enthusiastic self-learner** from Hungary.
-- a **self-employeed developer** and working on several projects.
-- open for a **Frontend engineer**/**Frontend developer** position.
+- working on several projects.
 
 ## I...
 - learning **frontend**, **backend** development, **UI/UX design**, **Computer Science** and **Software Architect**.
