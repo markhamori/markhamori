@@ -1,3 +1,3 @@
-[x] webdev
-[x] is
-[x] awesome
+- [x] webdev
+- [x] is
+- [x] awesome
